@@ -91,9 +91,9 @@
   #plays p:last-child, #techfar p:last-child { margin-right: 0; }
   #plays ol, #plays ul, #techfar ol, #techfar ul { float: left; display: block; margin-right: 2.35765%; width: 65.88078%; list-style-position: outside; padding-left: 25px; }
   #plays ol:last-child, #plays ul:last-child, #techfar ol:last-child, #techfar ul:last-child { margin-right: 0; }
-  #plays ol, #techfar ol { list-style-image: url("../images/bullet-sq.svg"); margin-top: 0px; }
+  #plays ol, #techfar ol { list-style-image: url("../main/images/bullet-sq.svg"); margin-top: 0px; }
   #plays li, #techfar li { padding-left: 5px; font-size: 15px; }
-  #plays ul, #techfar ul { list-style-image: url("../images/bullet-circle.svg"); }
+  #plays ul, #techfar ul { list-style-image: url("../main/images/bullet-circle.svg"); }
   #plays a, #techfar a { color: #0071bc; text-decoration: underline; display: inline-block; }
   #plays a:visited, #techfar a:visited { color: #4c2c92; } }
 @media screen and (min-width: 0px) and (max-width: 640px) { #plays p, #techfar p { font-size: 16px; }
