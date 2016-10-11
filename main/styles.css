@@ -35,7 +35,7 @@
 @media screen and (min-width: 0px) and (max-width: 640px) { .button { margin-top: 20px; display: block; margin-right: 0; text-align: left; } }
 
 @media screen { #alpha_tag { float: right; background: green; color: #fff; padding: 10px; font-family: "Source Sans Pro", sans-serif; }
-  #introduction { background: #324534; color: #fff; padding-bottom: 60px; }
+  #introduction { background: #004D40; color: #fff; padding-bottom: 60px; opacity: .8; }
   #introduction a { text-decoration: underline; }
   #introduction a:hover { background: #fff; color: #323A45; }
   #introduction #usds_logo { display: inline-block; }
@@ -68,7 +68,7 @@
 @media screen { #navigation_bar.show { visibility: visible; display: block; height: 60px; } }
 @media screen and (min-width: 0px) and (max-width: 640px) { #navigation_bar.show { height: 48px; visibility: visible; display: block; } }
 
-@media screen { #plays_index { background: #d67648; padding-bottom: 60px; color: #fff; }
+@media screen { #plays_index { background: #009688; padding-bottom: 60px; color: #fff; }
   #plays_index h2 { margin-bottom: 38px; }
   #plays_index .columns { -moz-column-count: 2; -moz-column-gap: 20px; -webkit-column-count: 2; -webkit-column-gap: 20px; column-count: 2; column-gap: 20px; }
   #plays_index ol { list-style-position: inside; padding-left: 0px; margin-top: 0px; }
